@@ -1,0 +1,135 @@
+1. Create a class named PhoneNumber and declare the following variables:
+		countryCode
+		areaCode
+		localNumber
+
+	Use string concatenation to display the phone number.
+
+		Example:
+			countryCode = 1;
+		      areaCode = 703;
+		      localNumber = 4512625;
+
+		Output:
+			Phone number is: +1(703)-4512625
+
+
+2. Create a class called Birthday and declare the following variables with appropriate data types:
+		name 
+		birthDay 
+		birthMonth 
+		birthYear 
+
+	Display the birthday of the person in the following format:
+
+		Example:
+			name = "John";
+			birthDay = 25;
+			birthMonth = "April";
+			birthYear = 1995;
+
+		Output:
+			John was born on April 25, 1995.
+
+
+3. Create a class named StudentInfo and write a program with the following requirements:
+
+	Declare the following variables with appropriate data types:
+			studentName
+			age
+			gender
+			schoolName
+			studentId
+			gradeLevel
+			gpa
+
+	Display the full student information in the following format:
+
+			Example:
+				studentName = "Josh Steven";
+				age = 22;
+				gender = "Male";
+				gpa = 2.8;
+				schoolName = "MIT";
+				gradeLevel = "Undergraduate";
+				studentId = "A125";
+
+			Output:
+				The student's name is Josh Steven
+				Gender is Male
+				Age is 22 years old
+				The school's name is MIT
+				Grade level is Undergraduate
+				Josh Steven's GPA is 2.8
+
+
+
+4. Create a class named ShippingAddress and write a program with the following requirements:
+
+	Declare the following variables with appropriate data types:
+ 			fullName
+			buildingNumber
+			streetName
+			city
+			state
+			zipCode
+
+	Use concatenation to print the full shipping address
+
+			Example:
+				fullName = "Aaron Kissinger";
+				buildingNumber = 13621;
+				streetName = "Legacy Circle"
+				city = "Fairfax;
+				state = "VA";
+				zipCode = 22030;
+
+			Output:
+	      		Your Shipping address is:
+                			Aaron Kissinger
+                			13621 Legacy Circle
+                			Fairfax, VA 22030
+		
+
+
+5. Create a class named EmployeeInfo and write a program with the following requirements:
+	
+	Declare the following variables:
+			employeeName (String)
+			age (int)
+			gender (char)
+			companyName (String)
+			jobTitle (String)
+			yearsOfExperience (double)
+			salary (int)
+			isFullTime (boolean)
+			isMarried (boolean)
+			employeeId (String)
+
+	Display the full employee information in the following format.
+
+			Example:
+				employeeName = "Shay";
+				age = 24;
+				gender = 'F';
+				companyName = "Apple Inc";
+				jobTitle = "SDET";
+				yearsOfExperience = 2.5;
+				salary = 120_000;
+				isFullTime = true;
+				isMarried = false;
+				employeeId = "B101";
+
+			Output:
+				Employee name: Shay
+				Gender: F
+				Age: 24
+				Employee ID: B101
+				Job title: SDET
+				Company name: Apple Inc
+				Full time: true
+				Years of work experience: 2.5 years
+				Salary: $120000.0
+				Married: false
+
+
